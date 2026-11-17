@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#0D8587"
+backgroundColor = "#F6F8FB"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#172337"
+font = "sans serif"
+[server]
+maxUploadSize = 2048
+maxMessageSize = 2048
